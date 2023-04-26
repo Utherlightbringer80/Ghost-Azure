@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Burford-Pugh'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDCACEC9CCBB4B92AA212056139A6AA8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_93B0B77E8C344D9E9B2C24392BE509EE }}
           package: .
